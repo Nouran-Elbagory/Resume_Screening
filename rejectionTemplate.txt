@@ -1,0 +1,27 @@
+<html>
+    <title>
+
+    </title>
+
+    <body>
+        Dear candidate,
+<br>
+<br>
+
+
+        Thank you for taking the time to consider Amazon. We wanted to let you know that we have chosen to move forward with a different candidate for the [Job_title] position. 
+<br>
+        We wanted to let you know that we have chosen to move forward with a different candidate for the Software Engineer position.
+      
+        <br>
+        <br>
+
+        
+        
+
+        <strong>Best Regards,</strong>
+        <br>
+
+        Nouran.
+    </body>
+</html>

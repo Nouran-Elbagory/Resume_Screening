@@ -1,0 +1,28 @@
+<html>
+    <title>
+
+    </title>
+
+    <body>
+        Dear candidate,
+<br>
+<br>
+
+
+        Congratulations on your offer from Amazon! 
+<br>
+        We are delighted to offer you the position of Software Engineer.
+<br>
+        To accept this offer, please email me by March 2, 2022.
+        <br>
+        <br>
+
+        
+        
+
+        <strong>Best Regards,</strong>
+        <br>
+
+        Nouran.
+    </body>
+</html>
